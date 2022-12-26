@@ -26,5 +26,5 @@ cores, tom mais sóbrio, mais leve
 
 - posicionamento - da esquerda para direita de cima para baixo
 
-
+Link do google sheets = https://docs.google.com/spreadsheets/d/1mZujmDQlOwjsLMpzGJ5oCHiqv83FHXVeg9yJKNgC89c/edit#gid=2001144616
 
