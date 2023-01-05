@@ -1,0 +1,13 @@
+1 - Existem dois passos essenciais no planejamento de um experimento. O primeiro deles é ter um objetivo claro: que questão desejamos responder ao realizar um experimento? A Bel, por exemplo, quer entender como a variação da quantidade de farinha e chocolate afeta a produção de cupcakes. Isso significa que ela não quer saber a influência da quantidade de ovos, ou o impacto da variação dos ingredientes na massa final da receita.
+
+Ter esse objetivo defininido ao executar o experimento evita erros, principalmente divergência em relação às finalidades de nossas análises. Ao final do experimento, teremos a certeza de que os dados coletados terão a possibilidade de responder às perguntas que guiaram os ensaios.
+
+2 - O segundo passo de qualquer planejamento é entender quais serão as variáveis manipuladas e a resposta. No caso da Bel, as variáveis manipuladas são a farinha e o chocolate. Os outros elementos, como quantidade de ovos, manteiga e temperatura do forno, devem permanecer obrigatoriamente constantes, de modo que os resultados obtidos não sejam influenciados por sua variação.
+
+A resposta é aquilo que desejamos analisar por meio das estatísticas, que nesse caso é o número de cupcakes produzidos. Ter esses conceitos bem definidos também nos ajuda a não perder tempo e dinheiro medindo coisas desnecessárias.
+
+Ao fazermos um planejamento dos experimentos, evitamos uma série de erros que podem surgir da má execução dos ensaios. Sir Ronald Fisher, um grande estatístico inglês, inclusive utilizava a seguinte frase para demonstrar a importância do planejamento:
+
+Chamar um estatístico depois que o experimento foi feito pode ser o mesmo que pedir para ele fazer um exame post-mortem. Talvez ele consiga dizer do que foi que o experimento morreu.
+
+Devemos nos planejar, freando um pouco a ansiedade de obter dados e respostas rapidamente. Planejar o experimento também significa que os dados utilizados na fase de análise e estatística terão qualidade adequada para responder às nossas perguntas.
